@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+// <!DOCTYPE html>
 <html lang="en">
 <head>
     <link rel="icon" href="Abicon.png" type="image/png">
@@ -1076,7 +1076,8 @@
                     updateCarousel();
                 }
             }
-        });
+        }); 
+        
 
         // Parallax effect on scroll
         window.addEventListener('scroll', function() {
